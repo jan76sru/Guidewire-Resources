@@ -4,16 +4,18 @@ Welcome to the ultimate resource guide for learning and mastering Guidewire! Whe
 
 ---
 
-## Table of Contents
-1. [Official Documentation and Learning Portals](#official-documentation-and-learning-portals)  
-2. [Key Technical Areas to Focus On](#key-technical-areas-to-focus-on)  
-3. [Training and Courses](#training-and-courses)  
-4. [Community and Forums](#community-and-forums)  
-5. [Sample Projects and Code](#sample-projects-and-code)  
-6. [Key Certifications](#key-certifications)  
-7. [Technical Books](#technical-books)  
+| **Guidewire Products**       | **Technology**          | **Certifications**              | **Description**                                |
+|-------------------------------|-------------------------|----------------------------------|------------------------------------------------|
+| PolicyCenter                 | Java                   | Certified Associate             | Core system for policy administration         |
+| BillingCenter                | Gosu                   | Certified Specialist            | Manages billing and financial transactions    |
+| ClaimCenter                  | REST APIs              | Certified Professional          | Claims management and processing              |
+| DataHub                      | Guidewire Cloud        | Advanced Certified Expert (ACE) | Data integration and transformation platform  |
+| InfoCenter                   | Messaging              |                                  | Business intelligence and reporting solution  |
+| Digital Portal Applications  | Microservices          |                                  | Customer and agent-facing digital solutions   |
+| InsuranceNow                 | APIs                   |                                  | Cloud-based solution for small insurers       |
+| Enterprise Engage            | Cloud Services         |                                  | Engagement solutions for insurance journeys   |
 
----
+
 
 ## 1. Official Documentation and Learning Portals  
 
