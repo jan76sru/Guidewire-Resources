@@ -4,16 +4,23 @@ Welcome to the ultimate resource guide for learning and mastering Guidewire! Whe
 
 ---
 
-| **Guidewire Products**       | **Technology**          | **Certifications**              | **Description**                                |
-|-------------------------------|-------------------------|----------------------------------|------------------------------------------------|
-| PolicyCenter                 | Java                   | Certified Associate             | Core system for policy administration         |
-| BillingCenter                | Gosu                   | Certified Specialist            | Manages billing and financial transactions    |
-| ClaimCenter                  | REST APIs              | Certified Professional          | Claims management and processing              |
-| DataHub                      | Guidewire Cloud        | Advanced Certified Expert (ACE) | Data integration and transformation platform  |
-| InfoCenter                   | Messaging              |                                  | Business intelligence and reporting solution  |
-| Digital Portal Applications  | Microservices          |                                  | Customer and agent-facing digital solutions   |
-| InsuranceNow                 | APIs                   |                                  | Cloud-based solution for small insurers       |
-| Enterprise Engage            | Cloud Services         |                                  | Engagement solutions for insurance journeys   |
+| **Guidewire Products**       | **Technology**          | **Description**                                |
+|-------------------------------|-------------------------|------------------------------------------------|
+| PolicyCenter                 | Java                   | Core system for policy administration         |
+| BillingCenter                | Gosu                   | Manages billing and financial transactions    |
+| ClaimCenter                  | REST APIs              | Claims management and processing              |
+| DataHub                      | Guidewire Cloud        | Data integration and transformation platform  |
+| InfoCenter                   | Messaging              | Business intelligence and reporting solution  |
+| Digital Portal Applications  | Microservices          | Customer and agent-facing digital solutions   |
+| InsuranceNow                 | APIs                   | Cloud-based solution for small insurers       |
+| Enterprise Engage            | Cloud Services         | Engagement solutions for insurance journeys   |
+
+#### **Certifications**
+- [Certified Associate](https://www.guidewire.com/certifications/associate)  
+- [Certified Specialist](https://www.guidewire.com/certifications/specialist)  
+- [Certified Professional](https://www.guidewire.com/certifications/professional)  
+- [Advanced Certified Expert (ACE)](https://www.guidewire.com/certifications/ace)
+
 
 
 
